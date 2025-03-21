@@ -1,0 +1,8 @@
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
+transformers==4.30.2
+streamlit==1.25.0
+sentencepiece
+numpy
+scipy
